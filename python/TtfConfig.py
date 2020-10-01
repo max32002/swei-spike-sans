@@ -20,7 +20,7 @@ class TtfConfig():
     #PROCESS_MODE = "GOSPEL"
     #PROCESS_MODE = "SHEAR"
     PROCESS_MODE = "ALIAS"
-    #PROCESS_MODE = "SPIKE"
+    PROCESS_MODE = "SPIKE"
 
     STYLE_INDEX = 5
     STYLE_ARRAY = ["Black","Bold","Medium","Regular","DemiLight","Light","Thin"]
