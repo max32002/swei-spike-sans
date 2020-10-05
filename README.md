@@ -4,6 +4,8 @@
 
 獅尾尖刺黑體的特色是，「口」字的4個轉角長尖刺。
 
+「獅尾尖腿黑體」與「獅尾尖刺黑體」差別在有沒有拔腳，「拔腳」就是會有較少的筆畫，例如移除「口」字的左右下角會多出的短線條。有拔腳的字會較圓，但是會造成有些字因直接去掉腿後左右不平衡、左右不對襯的「懸空」問題。改使用「腿」系列字體就不會有這個問題。
+
 ![字體預覽](https://github.com/max32002/swei-spike-sans/raw/master/preview/welcome.png)
 
 和思源黑體一樣，支援7種的字重：
@@ -20,6 +22,20 @@
 * TC是 Traditional Chinese 繁体中文，代表港台習慣的字形。
 * JP是 Japanese 日文，代表日本習慣字形。
 * 相同一個字，在不地區的書寫方式可能會略有不同。
+
+### 「CJK TC」和「CJK SC」的比較：
+![TC和SC比較](https://github.com/max32002/swei-spike-sans/raw/master/preview/compare_tc_sc.png)
+* 在「肉」、「糸」、「女」、「辶」、「食」的筆畫不同，CJK SC 「肉字旁部首」變成「月」。 
+* 在「草」部的筆畫，CJK SC 中間連起來。
+* 「體」字的骨上方方向相反。
+* 「角」字下面穿頭。
+* 雨、身、戶、舟、北、㕣、酋字寫法不同。
+
+### 「CJK TC」和「CJK JP」的比較：
+![TC和SC比較](https://github.com/max32002/swei-spike-sans/raw/master/preview/compare_tc_jp.png)
+* 在「肉」、「糸」、「女」、「辶」、「食」的筆畫不同，CJK JP 「肉字旁部首」變成「月」。 
+* 在「草」部的筆畫，CJK JP 中間連起來。
+* 雨、言、青、兌、賣、直、真、曾、戶、北、㕣、酋字寫法不同。其他[常見與日系字型的差異](https://max-everyday.com/2020/06/taiwanpearl/#diff)。
 
 ## 更新日誌
 [點擊此處](https://github.com/max32002/swei-spike-sans/blob/master/change_log.md) 查看更新記錄。
